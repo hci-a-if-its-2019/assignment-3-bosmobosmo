@@ -31,7 +31,21 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 #### a. Transcript with Participant 1
 ```
-
+1.  A: Jadi nanti kamu coba terus komentarmu gimana.
+2.  B: Kok nggak bisa di-scroll?
+3.  A: Nggak bisa soalnya aku cuma bikin segitu aja.
+4.  B: *clicks the search button*
+5.  B: Udah?
+6.  A: Lanjutin sekarang searh resultnya.
+7.  B: *clicks the search result.
+8.  B: Ini kalo divisit apa langsung ke web aslinya?
+9.  A: Enggak. Cuma gambar ini.
+10. B: Oalah. Iya ya.
+11. A: Kalo diklik search button balik ke yang tadi lagi.
+12. B: Terus ngapain sekarang?
+13. A: Liat tampilannya terus komentarmu gimana. Susahnya dimana.
+14. B: Menurutku gampang soalnya hasilnya langsung keluar.
+15. B: Kurangnya menurutku di search result nggak ada sinopsisnya.
 ```
 
 #### b. Transcript with Participant 2
