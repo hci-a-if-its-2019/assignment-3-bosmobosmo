@@ -31,6 +31,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 #### a. Transcript with Participant 1
 ```
+A: Me
+B: CI Subject
+
 1.  A: Jadi nanti kamu coba terus komentarmu gimana.
 2.  B: Kok nggak bisa di-scroll?
 3.  A: Nggak bisa soalnya aku cuma bikin segitu aja.
